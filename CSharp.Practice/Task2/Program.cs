@@ -8,7 +8,7 @@ namespace Task2
         static void Main(string[] args)
         {
             ArrayList arrayList = new ArrayList();
-            //simple types: (int) 45, (boolean) true, (double) 23.45 - value types; (string) "Hello" - reference type
+            //object
             arrayList.Add(45);
             arrayList.Add(true);
             arrayList.Add("Hello!");
