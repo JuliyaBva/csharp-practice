@@ -14,9 +14,6 @@ namespace Task1
             Console.WriteLine(num2);
             Console.WriteLine(num2.GetType());
             Console.Read();
-
-
-
         }
     }
 }
