@@ -1,6 +1,5 @@
 ﻿using System;
 
-
 namespace Lect5.Greeting
 {
     class Program
